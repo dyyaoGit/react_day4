@@ -1,0 +1,38 @@
+goods: [
+                {
+                    id: "2",
+                    name: "外星人笔记本",
+                    desc: "厚如砖，猛如牛",
+                    price: "22222",
+                    count: 0,
+                    littlePrice: 0
+                },
+                {
+                    id: "3",
+                    name: "固态硬盘",
+                    desc: "三星固态硬盘，一用就知道",
+                    price: "900",
+                    count: 0,
+                    littlePrice: 0
+                },
+                {
+                    id: "4",
+                    name: "GTX1080Ti",
+                    desc: "画面思思顺滑",
+                    price: "3600",
+                    count: 0,
+                    littlePrice: 0
+                },
+                {
+                    id: "5",
+                    name: "酷睿I9",
+                    desc: "超快，超爽，性能超刺激",
+                    price: "3000",
+                    count: 0,
+                    littlePrice: 0
+                }
+            ],
+            users: {
+                username: '',
+                sex: ''
+            }
